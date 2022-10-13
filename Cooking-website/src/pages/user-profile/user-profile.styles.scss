@@ -1,0 +1,23 @@
+.user-profile {
+    margin-top: 100px;
+    min-height: 80vh;
+    .img-circle {
+        display: flex;
+        height: 150px;
+        width: 150px;
+        background-color: #8db57f;
+        margin: 0 auto;
+        border-radius: 50%;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+
+        h1 {
+            font-size: 4.5rem;
+        }
+    }
+
+    h3 {
+        margin-top: 10px;
+    }
+}
